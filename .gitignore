@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases and user info
+users.db
+
+# Streamlit secrets (contains API keys)
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
